@@ -1,0 +1,56 @@
+body{
+    background-color: rgb(2, 2, 111);
+    color: yellow;
+    text-align: center;
+    font-size: xx-large;
+    
+}
+h1{
+    margin: 0%;
+}
+.start-button{
+    margin: auto;
+   font-size: 2rem;
+   border-radius: 2rem;
+   padding: 0.5rem,0.5rem;
+   background-color: rgb(0, 255, 200);
+}
+
+
+.small-button{
+    width: 10rem;
+    height: 10rem;
+    border-radius: 2rem;
+    border: black,solid;
+    border-width: 0.5rem;
+}
+.button{
+    width: none;
+    height: none;
+    border-radius: 2rem;
+    border:black,solid;
+    border-width:0.2rem;
+    
+}
+.container{
+    display: block;
+    margin: 1rem;
+}
+.red{
+    background-color: red;
+}
+.green{
+    background-color: green;
+}
+.blue{
+    background-color: blue;
+}
+.yellow{
+    background-color: yellow;
+}
+footer{
+    font-size: smaller;
+}
+.pressed{
+    opacity: 0.1;
+}
